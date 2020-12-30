@@ -14,7 +14,14 @@
 // Inicialmente interrumpe por segundos hasta los 5 segundos. Luego deshabilita
 // la interrupción por segundos y habilita la de la alarma a los 10 segundos.
 // en adelante, deshabilita la interrupción por alarma y sigue interrumpiendo por segundos.
-// la información de interrupción y del contador rtc se muestra en el puerto serial,
+// la información de interrupción y del contador rtc se muestra en el puerto serial.
+
+
+Codigo tipo Blink mediante una interrupcion manejada por software, es decir a partir de una
+activacion cada determinado tiempo, este tiempo se puede manejar de dos maneras que es por cada
+segundo se activa una bandera o programando la activacion de la bandera con una alarma cada determinado tiempo.
+Tambien incluye manejo de Uart para visualizar la informacion. Todo en lenguaje C.
+
 **********************************************************************/
 
 #include "stm32f10x_conf.h"
