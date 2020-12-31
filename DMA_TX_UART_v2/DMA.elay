@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<EmBitz_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="inc\stm32f10x.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="62298" topLine="1441" />
+		</Cursor>
+	</File>
+	<File name="SPL\inc\stm32f10x_dma.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="19876" topLine="396" />
+		</Cursor>
+	</File>
+	<File name="SPL\src\stm32f10x_dma.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8990" topLine="256" />
+		</Cursor>
+	</File>
+	<File name="SPL\src\stm32f10x_rcc.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="36348" topLine="1106" />
+		</Cursor>
+	</File>
+	<File name="src\main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1312" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="77" />
+			<Collapse line="99" />
+			<Collapse line="116" />
+			<Collapse line="148" />
+			<Collapse line="179" />
+		</Folding>
+	</File>
+</EmBitz_layout_file>
