@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<EmBitz_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="SPL\inc\stm32f10x_rcc.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="20906" topLine="484" />
+		</Cursor>
+	</File>
+	<File name="SPL\src\stm32f10x_rcc.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="37616" topLine="1077" />
+		</Cursor>
+	</File>
+	<File name="src\main.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3606" topLine="52" />
+		</Cursor>
+		<Folding>
+			<Collapse line="50" />
+			<Collapse line="93" />
+			<Collapse line="115" />
+			<Collapse line="132" />
+			<Collapse line="150" />
+			<Collapse line="182" />
+			<Collapse line="276" />
+			<Collapse line="295" />
+			<Collapse line="299" />
+			<Collapse line="325" />
+			<Collapse line="333" />
+			<Collapse line="342" />
+			<Collapse line="383" />
+			<Collapse line="423" />
+			<Collapse line="434" />
+			<Collapse line="454" />
+			<Collapse line="468" />
+			<Collapse line="510" />
+		</Folding>
+	</File>
+</EmBitz_layout_file>
