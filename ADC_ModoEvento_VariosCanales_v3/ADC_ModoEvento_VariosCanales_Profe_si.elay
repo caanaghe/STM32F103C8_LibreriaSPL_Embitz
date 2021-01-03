@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<EmBitz_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="src\main.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="955" topLine="35" />
+		</Cursor>
+		<Folding>
+			<Collapse line="66" />
+			<Collapse line="93" />
+			<Collapse line="115" />
+			<Collapse line="148" />
+			<Collapse line="161" />
+			<Collapse line="207" />
+			<Collapse line="263" />
+			<Collapse line="365" />
+			<Collapse line="403" />
+		</Folding>
+	</File>
+</EmBitz_layout_file>
