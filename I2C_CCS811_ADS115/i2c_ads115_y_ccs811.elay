@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<EmBitz_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="src\main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="41852" topLine="6" />
+		</Cursor>
+		<Folding>
+			<Collapse line="401" />
+			<Collapse line="409" />
+			<Collapse line="414" />
+			<Collapse line="419" />
+			<Collapse line="467" />
+			<Collapse line="508" />
+			<Collapse line="549" />
+			<Collapse line="594" />
+			<Collapse line="621" />
+			<Collapse line="638" />
+			<Collapse line="650" />
+			<Collapse line="662" />
+			<Collapse line="675" />
+			<Collapse line="707" />
+			<Collapse line="718" />
+			<Collapse line="729" />
+			<Collapse line="735" />
+			<Collapse line="746" />
+			<Collapse line="762" />
+			<Collapse line="791" />
+			<Collapse line="826" />
+			<Collapse line="846" />
+			<Collapse line="861" />
+			<Collapse line="878" />
+			<Collapse line="890" />
+			<Collapse line="903" />
+			<Collapse line="909" />
+			<Collapse line="919" />
+			<Collapse line="928" />
+			<Collapse line="935" />
+			<Collapse line="944" />
+			<Collapse line="964" />
+			<Collapse line="976" />
+			<Collapse line="990" />
+			<Collapse line="998" />
+			<Collapse line="1015" />
+			<Collapse line="1025" />
+			<Collapse line="1037" />
+			<Collapse line="1049" />
+			<Collapse line="1077" />
+			<Collapse line="1094" />
+			<Collapse line="1119" />
+			<Collapse line="1142" />
+			<Collapse line="1172" />
+		</Folding>
+	</File>
+</EmBitz_layout_file>
