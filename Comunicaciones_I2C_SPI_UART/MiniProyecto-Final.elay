@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<EmBitz_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="SPL\inc\stm32f10x_i2c.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="17604" topLine="409" />
+		</Cursor>
+	</File>
+	<File name="SPL\src\stm32f10x_i2c.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="18399" topLine="589" />
+		</Cursor>
+	</File>
+	<File name="src\main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="18227" topLine="159" />
+		</Cursor>
+		<Folding>
+			<Collapse line="101" />
+			<Collapse line="126" />
+			<Collapse line="150" />
+			<Collapse line="179" />
+			<Collapse line="195" />
+			<Collapse line="236" />
+			<Collapse line="267" />
+			<Collapse line="328" />
+			<Collapse line="333" />
+			<Collapse line="353" />
+			<Collapse line="358" />
+			<Collapse line="364" />
+			<Collapse line="371" />
+			<Collapse line="377" />
+			<Collapse line="387" />
+			<Collapse line="409" />
+		</Folding>
+	</File>
+</EmBitz_layout_file>
